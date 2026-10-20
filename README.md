@@ -28,7 +28,7 @@
       <br><a href="Grand-Paris">Open results →</a>
     </td>
     <td align="center" width="33%">
-      <a href="The-Nederlands-Amsterdam-Utrecht"><img src="The-Nederlands-Amsterdam-Utrecht/Screenshot-map.png" alt="Amsterdam-Utrecht route map" width="100%"></a>
+      <a href="The-Nederlands-Amsterdam-Utrecht"><img src="The-Nederlands-Amsterdam-Utrecht/Screenshot-map-view.png" alt="Amsterdam-Utrecht route map" width="100%"></a>
       <br><b>🇳🇱 Amsterdam – Utrecht</b><br><sub>Amsterdam · Utrecht · Amstelveen</sub>
       <br><a href="The-Nederlands-Amsterdam-Utrecht">Open results →</a>
     </td>
