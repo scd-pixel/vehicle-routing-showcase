@@ -1,0 +1,39 @@
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 the author of this repository (GitHub account that owns it)
+
+The datasets, route plans, result files (CSV, GeoJSON) and images in this
+repository (the "Material") are licensed under the Creative Commons
+Attribution-NonCommercial 4.0 International License.
+
+You are free to:
+  - Share: copy and redistribute the Material in any medium or format.
+  - Adapt: remix, transform, and build upon the Material.
+
+Under the following terms:
+  - Attribution: you must give appropriate credit (the repository author, via a link to
+    this repository), provide a link to the license, and indicate if changes
+    were made.
+  - NonCommercial: you may not use the Material for commercial purposes.
+  - No additional restrictions: you may not apply legal terms or technological
+    measures that legally restrict others from doing anything the license
+    permits.
+
+Full license text:  https://creativecommons.org/licenses/by-nc/4.0/legalcode
+Human-readable summary: https://creativecommons.org/licenses/by-nc/4.0/
+
+Scope
+  This license covers only the Material contained in this repository. The
+  routing algorithm and software used to generate the Material are NOT
+  included in this repository and are NOT licensed under these terms; all
+  rights in them are reserved.
+
+Third-party data
+  Route geometries and map-derived coordinates contain information from
+  OpenStreetMap, (c) OpenStreetMap contributors, available under the Open
+  Database License (ODbL): https://www.openstreetmap.org/copyright
+  Use of that underlying data remains subject to the ODbL.
+
+Disclaimer
+  The Material is synthetic and provided "as is", without warranty of any kind.
+  It contains no real customer or personal data.
